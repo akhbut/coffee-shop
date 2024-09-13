@@ -114,6 +114,9 @@ h4 {
 /* Images */
 .home-page-images {
     padding: 20px 0 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .photo {
